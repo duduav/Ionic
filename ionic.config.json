@@ -1,0 +1,8 @@
+{
+  "name": "shifts",
+  "app_id": "e5484d16",
+  "type": "ionic-angular",
+  "integrations": {
+    "cordova": {}
+  }
+}
